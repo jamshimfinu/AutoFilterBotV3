@@ -55,7 +55,7 @@
         },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
-            "value": "False",
+            "value": "True",
             "required": false
         },
         "OMDB_API_KEY": {
