@@ -16,5 +16,8 @@ async def media(bot, message):
         return
 
     media.file_type = file_type
-    media.caption = message.caption
+    media.caption = message.⚡️=========⚡️
+@Moviebell01
+@movieCloudAI
+⚡️=========⚡️
     await save_file(media)
